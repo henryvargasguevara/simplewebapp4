@@ -7,7 +7,7 @@
 		<description></description>
 		<display-name>Controller</display-name>
 		<servlet-name>Controller</servlet-name>
-		<servlet-class>com.peruviansy.controller.HomeServlet</servlet-class>
+		<servlet-class>controller.HomeServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Controller</servlet-name>
